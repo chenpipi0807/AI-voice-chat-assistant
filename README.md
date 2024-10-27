@@ -1,9 +1,13 @@
 # Judy AI 助手
 
 一个基于 Moonshot AI 的赛博朋克风格语音助手，灵感来自《赛博朋克2077》。
+
 kimi的API需要自主获取一下：https://platform.moonshot.cn/console/account
-![微信截图_20241027152942](https://github.com/user-attachments/assets/2e7d609a-6212-4e14-93a0-96fbf325dacf)
+
+
 ![微信截图_20241027152916](https://github.com/user-attachments/assets/9fcb8659-93de-4432-ad4f-ad2404a78933)
+![微信截图_20241027152942](https://github.com/user-attachments/assets/2e7d609a-6212-4e14-93a0-96fbf325dacf)
+
 
 ## 功能特点
 
