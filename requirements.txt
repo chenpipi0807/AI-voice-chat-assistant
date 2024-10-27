@@ -1,0 +1,7 @@
+speech_recognition==3.10.0
+edge-tts==6.1.9
+requests==2.31.0
+pygame==2.5.2
+colorama==0.4.6
+asyncio==3.4.3
+
