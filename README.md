@@ -4,6 +4,8 @@
 
 kimi的API需要自主获取一下：https://platform.moonshot.cn/console/account
 
+补充一下，个人使用API还是蛮便宜的，昨天奴役kimi写了十万字的小说，才花十块钱不到。
+
 
 ![微信截图_20241027152916](https://github.com/user-attachments/assets/9fcb8659-93de-4432-ad4f-ad2404a78933)
 ![微信截图_20241027152942](https://github.com/user-attachments/assets/2e7d609a-6212-4e14-93a0-96fbf325dacf)
